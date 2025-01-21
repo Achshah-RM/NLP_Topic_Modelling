@@ -1,3 +1,12 @@
+# Exclude virtual environment
+venv/
+Topic_Modelling_venv/
+
+# Exclude data files
+*.csv
+
+# Exclude large dynamic libraries
+*.dylib
 __pycache__/
 *.pyc
 *.pyo
