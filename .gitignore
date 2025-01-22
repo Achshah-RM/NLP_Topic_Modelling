@@ -4,9 +4,11 @@ Topic_Modelling_venv/
 
 # Exclude data files
 *.csv
+data/
 
 # Exclude large dynamic libraries
 *.dylib
+
 __pycache__/
 *.pyc
 *.pyo
