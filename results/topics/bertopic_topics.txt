@@ -1,0 +1,10 @@
+Topic -1: account, credit, report, payment, call, pay, bank, card, information, time
+Topic 0: account, verifiable, report, verify, proof, contract, must, remove, original, credit
+Topic 1: claim, compliance, plaintiff, compliant, requisite, collection, report, allege, full, debt
+Topic 2: report, debt, information, collection, person, credit, violation, account, proof, shall
+Topic 3: payment, loan, lender, would, call, say, ask, tell, time, do
+Topic 4: suspicious, item, continue, dl, inside, wallet, everyday, couple, shock, get
+Topic 5: number, theft, report, identity, information, breach, credit, victim, account, datum
+Topic 6: theft, identity, information, submit, ftc, utilize, need, matter, comfortable, account
+Topic 7: validation, account, review, belong, reflect, profile, strike, credit, discrepancy, believe
+Topic 8: greatly, appreciate, copy, respectfully, request, report, ignore, credit, cooperation, write

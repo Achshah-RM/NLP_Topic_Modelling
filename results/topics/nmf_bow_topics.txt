@@ -1,0 +1,10 @@
+Topic 0: date, status, creditor, ok, balance, inquiry, open, close, type, responsibility
+Topic 1: consumer, report, information, block, agency, section, identity, theft, shall, file
+Topic 2: card, bank, receive, tell, say, send, charge, time, request, day
+Topic 3: claim, report, collection, compliance, plaintiff, allege, debt, compliant, requisite, document
+Topic 4: payment, late, make, pay, month, time, day, account, monthly, type
+Topic 5: account, open, balance, close, negative, number, original, potentially, check, bank
+Topic 6: issue, app, check, netspendxxxx, resolve, fix, know, deposit, mobile, experience
+Topic 7: debt, collector, collection, consumer, person, act, creditor, state, federal, communication
+Topic 8: loan, mortgage, document, service, seller, borrower, agreement, purchaser, date, company
+Topic 9: credit, report, remove, card, information, bureau, dispute, score, company, inquiry

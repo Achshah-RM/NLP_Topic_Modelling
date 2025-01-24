@@ -1,0 +1,10 @@
+Topic 0: report, credit, remove, bureau, inaccurate, score, information, agency, experian, delete
+Topic 1: loan, mortgage, pay, company, tell, home, time, say, month, ask
+Topic 2: debt, collection, owe, company, collect, agency, collector, pay, allege, validation
+Topic 3: payment, late, make, pay, month, fee, day, date, balance, miss
+Topic 4: card, charge, credit, capital, fee, use, citi, purchase, pay, balance
+Topic 5: account, open, close, balance, date, status, creditor, remove, number, collection
+Topic 6: letter, dispute, send, request, information, provide, verify, receive, consumer, proof
+Topic 7: bank, check, america, money, chase, fund, deposit, tell, transfer, day
+Topic 8: identity, theft, information, victim, fraudulent, consumer, block, ftc, report, file
+Topic 9: inquiry, hard, credit, authorize, unauthorized, remove, date, add, removal, inquire

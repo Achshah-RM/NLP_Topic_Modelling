@@ -1,0 +1,10 @@
+Topic 0: call, pay, payment, tell, get, would, time, say, credit, make
+Topic 1: claim, report, allege, compliance, collection, debt, plaintiff, full, compliant, document
+Topic 2: consumer, report, information, identity, theft, section, agency, act, block, violation
+Topic 3: well, loan, service, complaint, fargo, state, company, home, see, financial
+Topic 4: payment, loan, mortgage, late, pay, make, due, amount, month, interest
+Topic 5: account, bank, call, check, receive, send, email, money, day, fund
+Topic 6: account, date, balance, open, close, status, creditor, payment, last, collection
+Topic 7: debt, collection, company, send, letter, credit, receive, request, provide, report
+Topic 8: card, charge, credit, one, capital, dispute, citi, transaction, fraud, use
+Topic 9: credit, report, account, remove, information, bureau, dispute, score, file, inquiry
